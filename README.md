@@ -1,3 +1,2 @@
 # hello-world
-Test Repository
-Sample read-me file for test repository.
+Sample read-me file for test repository while exploring GitHub features.
